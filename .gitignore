@@ -1,0 +1,14 @@
+# Artefatos de QA / depuração
+.qa/
+*.log
+
+# Originais brutos e capturas (não publicar)
+img/_orig/
+
+# SO / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+*.swp
