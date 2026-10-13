@@ -92,13 +92,22 @@ Depois abra `http://localhost:8000/` (ou a porta informada pelo `server.ps1`).
 Estes pontos vieram de fontes públicas (Google, Instagram) e **ainda não foram
 confirmados pela academia**. Vale revisar antes de divulgar amplamente:
 
-- **"Há 11 anos"** — consta no hero, em um indicador e no rodapé. Origem: bio do
-  Instagram. Se a data de fundação estiver diferente, o número aparece em 3 lugares.
+- **"Há 11 anos"** — consta no hero, em um indicador e no rodapé (3 lugares). Origem:
+  bio do Instagram. **Decisão: manter por ora**, validado com o responsável pelo site;
+  confirmar a data real com a academia antes de divulgar.
 - **Fotos e depoimentos** — é preciso ter a autorização de uso de imagem de quem aparece
   nas fotos e de quem escreveu os depoimentos.
 - **Preços e valores** — não publicados de propósito. Os planos direcionam ao WhatsApp
   para a equipe informar o valor atual.
 - **Horários e modalidades** — confirmar se a grade atual está igual à descrita.
+
+## Conta e URL de publicação
+
+- **Conta GitHub:** `ddesites` (confirmada).
+- **URL esperada:** `https://ddesites.github.io/pimenta-fitness/`.
+- As tags `canonical`, o `url` do JSON-LD e os metadados sociais dos 6 arquivos `.html`
+  já apontam para essa URL. Se a conta ou o nome do repositório mudarem, é preciso
+  atualizar esses valores.
 
 ## Contato
 
